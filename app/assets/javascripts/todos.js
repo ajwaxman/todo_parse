@@ -1,0 +1,1 @@
+var Adam = "hello";
